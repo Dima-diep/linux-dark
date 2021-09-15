@@ -1,0 +1,15 @@
+Package: geomac
+Architecture: i386
+Version: 0.1-1
+Priority: optional
+Section: base
+Maintainer: Victor Golovanenko <drygdryg2014@yandex.com>
+Depends: libssl1.1, libgtk-3-0
+Filename: ./geomac-i386.deb
+Size: 391088
+MD5sum: 2613c2c4d9de23b55a1b89e8894390b3
+SHA1: 291ee0ef7e362b2f76239881d630920883a561b0
+SHA256: 6c615180de7130b3ebef1b319cc974f9b05f96d10b7d7cbc78e0f3e2c69c0608
+SHA512: fdd21e7dae527e2c4d2f948ff1475a31baae550b18e495e3696fa7ef350da50618b85f42fa3054bc3c49525a19b69bdea7f8cc45d36164f3413432f152d80dd3
+Description: A simple program to get geolocation of Wi-Fi access points by their BSSIDs
+
