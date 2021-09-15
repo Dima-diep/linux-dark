@@ -1,0 +1,83 @@
+Package: AP-Fucker
+Architecture: all
+Version: 1.0
+Maintainer: @Dima-diep
+Depends: python2
+Filename: ./AP-Fucker_1.0_all.deb
+Size: 3308
+MD5sum: 63f578f37aefc04367e58518a6cadbfa
+SHA1: 1e23be9ab3c4a76dbc3f4919e66e6398c5695d3c
+SHA256: bc7bf155699b6ba810c616166b08871e0ce4ca3c8fd2f8f6ec519327ddd99588
+SHA512: 4d9257558c057fbd5e8c8a4cd3815e500fee6eaf41d2eb2eb66f36c5d64807c12f8af6e66d882d5e1e565ab94ae17292a5cc40c2f32cc627582e023ccf3823f6
+Homepage: https://github.com/Dima-diep/linux-dark
+Description: WiFi pentest tool
+
+Package: cryptutil
+Architecture: all
+Version: 1.0
+Maintainer: @Dima-diep
+Filename: ./cryptutil_1.0_all.deb
+Size: 1580
+MD5sum: bd87cce4a54f1bbab2ee742fe819b467
+SHA1: 173a73385c888acc72a3ec59b100f664358f4e1b
+SHA256: 6709fb74a81ba6554897459645d5d6b7f8d22e854ca679726fb1cd5346229f52
+SHA512: c38be902eeb6084d878a7de015fe63b592e08de808ab0442fadb623b4bcc905bcf514441e9b1ae49a4aacda1acc1d6d72824acd9467f3b3f11b564874660751f
+Homepage: https://github.com/Dima-diep/linux-dark
+Description: WiFi pentest tool
+
+Package: getproxy
+Architecture: all
+Version: 1.0
+Maintainer: @Dima-diep
+Depends: python2
+Filename: ./getproxy_1.0_all.deb
+Size: 3404
+MD5sum: 42da99ef0d05b747882a6fa5849637f9
+SHA1: 7c489d1dfd56ea9ff928af56684b4cfb39146c0a
+SHA256: 920eaf41df8037132c5bd888ffa5421138d8dd09ce17b14c026454a66733effe
+SHA512: 5b9e79e6f61c4a5b416abe0150002540bf4d1f721ba4e1cc4a13b4fd92640150b437878f6df50bf7886d6dcd15a3baa8351263a8508f2989f3b1fb17b908000a
+Homepage: https://github.com/Dima-diep/linux-dark
+Description:
+
+Package: malamgulita
+Architecture: all
+Version: 1.0
+Maintainer: @Dima-diep
+Depends: python2
+Filename: ./malamgulita_1.0_all.deb
+Size: 3556
+MD5sum: 838e23a6d039aa2439bb8be78cf72eb5
+SHA1: 68ae025bb651cf818f4f9233e7179b956685e4be
+SHA256: 5bd1171a13dd5a94bc62194ff8f8a589c71258d2d2c46bac34f1e6b84ab64de6
+SHA512: 4f251070c8402dc388555862b9d5a4cba0475959872955a27d88589f58c447891002dbe7352fd3922e509c3ded50ea0ceda670349b391af1fa15dcd12afd05d5
+Homepage: https://github.com/Dima-diep/termux-dark
+Description: Site pentest tool
+
+Package: soft-ap
+Architecture: all
+Version: 1.0
+Maintainer: @Dima-diep
+Depends: python2
+Filename: ./soft-ap_1.0_all.deb
+Size: 2388
+MD5sum: 3c2ecdefbc37c276272a3ac1b6a4b72d
+SHA1: 092c2df240d07cbf5fc7bff8f2016b143ae6cd55
+SHA256: c7cf36ed5d325dac3fa8deeb87c1bbe65db86e5097a4c5ed9a53e339e0f2f582
+SHA512: 3b44a07859c83e3c25d1a55365cf2bc237e56a41183c0aec4bb19db4469719a413e9935864a7932f2eb162300b080b6d44f2e44bb5dfe7e186bebf6e1929da9f
+Homepage: https://github.com/Dima-diep/linux-dark
+Description: WiFi pentest tool
+
+Package: zenmap
+Architecture: all
+Version: 1.0
+Maintainer: @Dima-diep
+Depends: nmap
+Filename: ./zenmap_1.0_all.deb
+Size: 1084
+MD5sum: e81251fd7de96fe68ad8a79372b99880
+SHA1: 8376d53a99595b448a3e1f733ca483c1fcd96e6b
+SHA256: 8cdd4e24b8bca8dcb6ef04162302f402a39df5495225256315e237651a1fda0b
+SHA512: 8ef0aae5f81439db4c1c9a74b448323f0f88d5746e51942a46d62bca1ed8e670f0533138e1294854beefb963dafe2bf1f2b0cc0d3bd3b055f4cdec5a210918e2
+Homepage: https://github.com/Dima-diep/linux-dark
+Description:
+
