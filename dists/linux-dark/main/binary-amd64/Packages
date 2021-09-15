@@ -1,0 +1,15 @@
+Package: geomac
+Architecture: amd64
+Version: 0.1-1
+Priority: optional
+Section: base
+Maintainer: Victor Golovanenko <drygdryg2014@yandex.com>
+Depends: libssl1.1, libgtk-3-0
+Filename: ./geomac-amd64.deb
+Size: 375728
+MD5sum: 78fe0eb77f1175bace9f0acbd417c68f
+SHA1: 0af1eb76978dc861b56937c8dfff0a2ded43908b
+SHA256: 9c765eb37a2766ad5fb0828f61792adb0562231a101774f84e6084a9d3ddf936
+SHA512: ed1765edbfbd2aa989add0df605af00f2ea2565dce380f0aa43df0f7f674a903acd2797bf71d0d09b4c7987a9a9eb61aa10ec2d06c60f9e252199610a1a7e4b2
+Description: A simple program to get geolocation of Wi-Fi access points by their BSSIDs
+
