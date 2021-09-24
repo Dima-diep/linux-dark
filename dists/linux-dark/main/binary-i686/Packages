@@ -1,0 +1,16 @@
+Package: btop
+Architecture: i686
+Version: 1.0.6
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: aristocratos
+Installed-Size: 4442152
+Filename: ./btop-i686.deb
+Size: 1314572
+MD5sum: c3bea939de98ab4e7c142ca49f23f9ec
+SHA1: f90baea993c6378347b8498de68ac74bd7bb6c96
+SHA256: eecc27b9f8ad5160cbee7df20c92ff88525bef2d3fbe3891070676ae297448f9
+SHA512: 0259f2c2afb3959de2b1b4cdd77d04c7cbc7890e653d81087dc7ec3b86df818a45ab08f87ea8232669527de8135c634589efa41cdc4cb8bef53917c0d8e418a9
+Description: Linux task manager
+
