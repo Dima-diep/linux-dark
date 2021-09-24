@@ -1,0 +1,16 @@
+Package: btop
+Architecture: riscv64
+Version: 1.0.6
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: aristocratos
+Installed-Size: 3290224
+Filename: ./btop-riscv64.deb
+Size: 1106312
+MD5sum: b42e5086c253b85c6dec70ebbe76c6ed
+SHA1: 8628984cf1663b7f53ef5e371d9bb8859d47dc4a
+SHA256: 451236bc26de7ec70fa9784ddad0abb2aba46655fd0bad31ceaf9422fe34d1ff
+SHA512: b341aca2ea08ec2883540caab147bd19b804a1806cb5982b92168f53339381971debece8bcda8ff63c2c3a72e10bbbcc497bd8f8464616642e7516357d8a2f69
+Description: Linux task manager
+
