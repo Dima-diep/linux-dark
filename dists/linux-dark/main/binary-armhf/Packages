@@ -1,0 +1,31 @@
+Package: btop
+Architecture: armhf
+Version: 1.0.6
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: aristocratos
+Installed-Size: 3031160
+Filename: ./btop-armhf.deb
+Size: 1047380
+MD5sum: 47b6bcd8b34aa9f5a24c9d2abb4a4dfc
+SHA1: 81ca7c6ad9b8cd5fe23d017126fe4b292122b34a
+SHA256: 4d2537bc83e06641328c6ae8c43ab21a9e926349d046066d47071130e0ad8cdb
+SHA512: 99bd0646685cc141ecad6ecd6913ce54b1aaec09912f0f0cca69d61a8a1646cbf1f43d526552e76de02cc49a4b79e0c73010c56d541f2d08db7310bd20c5a332
+Description: Linux task manager
+
+Package: geomac
+Architecture: armhf
+Version: 0.1-1
+Priority: optional
+Section: base
+Maintainer: Victor Golovanenko <drygdryg2014@yandex.com>
+Depends: libssl1.1, libgtk-3-0
+Filename: ./geomac-armhf.deb
+Size: 397020
+MD5sum: 02241dbe63a212dae695b44e34b88ddc
+SHA1: 3f2d5098e3fb2687c0b583339d4ec8d615a636d9
+SHA256: fd6a765bf09b683cd9271ca3e00c9f89181610617478d52026fc1ef3b6620090
+SHA512: 6f261ce7b052949e220c9754b52649e9b9718c05fcc2f64911852970b87a7f56540fc175ecf825aee0484393df8a3dbec21de64288b9a4cbaacf5f3d1d10b99b
+Description: A simple program to get geolocation of Wi-Fi access points by their BSSIDs
+
