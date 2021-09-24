@@ -1,0 +1,16 @@
+Package: btop
+Architecture: sparc64
+Version: 1.0.6
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: arisocratos
+Installed-Size: 3810408
+Filename: ./btop-sparc64.deb
+Size: 982972
+MD5sum: 69d6b151acea7b59dbe2ec6d58390762
+SHA1: 10424a83fce4cbabdcb841d3234a3646a498e18f
+SHA256: 8e6f8d73974b004a4b30edb7aefc2e661ec6331b52f2e326a4978e6eb370beb7
+SHA512: 91a50272bf31bc68a8175598bac486262424ea59db2e1d36811c3c0273721ac73b775cddb489fd60919eb2b3011e391bbb575d5670ffa7c8e2e9f5ec4d18608a
+Description: Linux task manager
+
