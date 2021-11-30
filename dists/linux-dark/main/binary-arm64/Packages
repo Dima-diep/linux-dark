@@ -1,0 +1,55 @@
+Package: bat
+Architecture: arm64
+Version: 1.0
+Maintainer: sharkdp
+Filename: ./bat-arm64.deb
+Size: 676
+MD5sum: 5de9c0c074538044f3c4f3df3f61e195
+SHA1: 1742138fd34ac6b51b4dacb04e62a55886de1004
+SHA256: daa7e077fd6810ce607afd99cca748dcc71e6fe77c6ba4c4c714191a6099658e
+SHA512: ecf1e4ee91497a8fac6a577196d57f2d9bc9fea2a8960a606aa975679ea8a89c22397ebeaa42e1ea369b582ca5f102156a5e166337b72558ab9f6aa93ddd49bb
+Description: colorized version of cat
+
+Package: btop
+Architecture: arm64
+Version: 1.0.6
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: aristocratos
+Installed-Size: 3931216
+Filename: ./btop-arm64.deb
+Size: 1072800
+MD5sum: 92e5d2bff6a22f221afac2c916582d47
+SHA1: 30704adfce60e5c204a7e85e797b25cbfbbce986
+SHA256: f0a54414d79b03b3d6fbfb48734f6f9c6e48c3cdec979650a5591b673f5553e9
+SHA512: 3ecc3a6c034959b1e03e8673cfaab3204c583ec2b57a0ec537b51f12bf13a4c3cdf5629577abd6914c56f834fbaba9914a0c563fe8db48dfdf9d897cd6365cf6
+Description: Linux task manager
+
+Package: geomac
+Architecture: arm64
+Version: 0.1-1
+Priority: optional
+Section: base
+Maintainer: Victor Golovanenko <drygdryg2014@yandex.com>
+Depends: libssl1.1, libgtk-3-0
+Filename: ./geomac-arm64.deb
+Size: 346400
+MD5sum: 9110d86ee4da73d2b4acc880adbcc0a7
+SHA1: d1bcc9742742eef008297bb86cc10c317c02d587
+SHA256: 5ff0cdbc40722a83801e3ca27a0daff5f5952c9f8f427ca40655be3845926ac5
+SHA512: a93ed587f7fc7443c333a83488dc50a31d542a8f9cbf23c148614d1196e1cac2280c50aded7dc5ea56a470614fe6e61154502592e2d862a3028fed1ad7e460a8
+Description: A simple program to get geolocation of Wi-Fi access points by their BSSIDs
+
+Package: lsd
+Architecture: arm64
+Version: 1.0
+Maintainer: Peltosche
+Filename: ./lsd-arm64.deb
+Size: 680
+MD5sum: ec6715a8d0454dc8d2d10f28694fdc25
+SHA1: a63844e157d0b16b5b809615a5b93139c16b402f
+SHA256: af9857078d5a41fa70c82692438ab831195bdcaf5632f2cce07cdc3e71734566
+SHA512: 59d8d8214c864188a7d838da1ea2caf7418b58d91a15a933c637732bfd016d353934666c94b25ae09826bec6a4bc1de535a00b6cdb5d51760a37f4434536c9c5
+Description: Symbolic output of ls
+
