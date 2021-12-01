@@ -1,0 +1,221 @@
+Package: apfucker
+Architecture: all
+Version: 1.0
+Priority: optional
+Essential: no
+Section: custom
+Installed-Size: 9.269
+Depends: python3, wireless-tools, net-tools
+Recommends: aircrack-ng, nmap
+Filename: ./apfucker.deb
+Size: 3408
+MD5sum: 183620f137b1e0a1dd538c61f1c71bfe
+SHA1: b4e7322fac22a471847a16169dd4432b568004b8
+SHA256: b91555585a18546a3df4c6cb28d8d7e1711a214b1162541a488847762fce4824
+SHA512: e79979f39e0c5ccccaf9d65b3eb8f1c4159b1a50c44dec33a43d466a301f0492425d9fba902bd80b51294c34321fb8f68db3891a4466166f923842f12adb20f1
+Description: WiFi pentest utility
+
+Package: apt-fzf
+Architecture: all
+Version: 1.1
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: StalinKali
+Installed-Size: 0.19
+Depends: fzf, apt
+Filename: ./apt-fzf.deb
+Size: 1032
+MD5sum: cd11a6308013a70b4de029706511f384
+SHA1: c3b544cf045295224f4675a18175ba132b94c18f
+SHA256: 5e407599153f77d8d74e0e226a474ab2d20a8c74995bf796a637898922c46000
+SHA512: 3a4e8b5a395c9e51daad18181398bb094c3fca8d198775f20454802cb9038075ee347a1ed5255d3d73e3e4ae8fbc9295eae44c5b43d86397e83302380768f84a
+Description: apt with fzf interface
+
+Package: audiogrep
+Architecture: all
+Version: 1.0
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: StalinKali
+Installed-Size: 0.218
+Depends: ffmpeg
+Filename: ./audiogrep.deb
+Size: 896
+MD5sum: 5a833725a0dc6776b6af75c088578df5
+SHA1: ba1bfcce1b41fa6d8948b56c46808cb0f410b6d9
+SHA256: ea3a660d43942629ffe33e780ef63609362d1e97eb2b8ec883a527704b5ee838
+SHA512: 9acc8e795b201636968dd1c020708d75842c9cd3d1bf08fb6522a15ffaa34692408468cada0d0c37e561b47834316e7141527b3bcd1b375527d2f83022c4e7fc
+Description: Audio cutter
+
+Package: cryptutil
+Architecture: all
+Version: 1.0
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: Dima-diep
+Installed-Size: 2725
+Filename: ./cryptutil-all.deb
+Size: 1644
+MD5sum: 45dc6968189d1f4c114b12a56b272bd7
+SHA1: ca88a0f6c5541eff0abaebde27dbfa373d16240d
+SHA256: bd004b16d8082cb4db71093c2c2d3cd18899456bb16816358ecf81b9886f95d9
+SHA512: 09df2fe372b841989b80e17d734a40585c32a3ecf2bd0a3970eab81c20ae637b8f6e26580b3aa45ac16e3cdf60251a0eaea63db349fe578c8fa30c8397ca30e2
+Description: cryptutil
+
+Package: getproxy
+Architecture: all
+Version: 1.0
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: Dima-diep
+Installed-Size: 10648
+Filename: ./getproxy-all.deb
+Size: 3480
+MD5sum: 67320dc1d9fc7ca3c75795d0c0e0f8fe
+SHA1: 42d9d0816f0bf5179c31989f80f5e8e6e0009014
+SHA256: 236c0bfa34c34ed5c86abb6fdb91f8bfb7e8dc517e1e6fa8e9640c30ba2b2fe6
+SHA512: 7dc556ab284ddd9e1724f9bd89ea02a98e526649db726ed102dbda3e37a812ea2e0aac5f0b49b3f689c32ba6a1edc49531c8e8403d0cd5599270fc2411782129
+Description: Get proxy!
+
+Package: malamgulita
+Architecture: all
+Version: 1.0
+Priority: optional
+Essential: no
+Section: custom
+Maintainer:
+Installed-Size: 21.138
+Depends: python3, wireless-tools, net-tools
+Recommends: aircrack-ng, nmap
+Filename: ./malamgulita.deb
+Size: 3676
+MD5sum: fd7661501c0e3c130d8bab1b9953be63
+SHA1: a44a755da3390fbae2500c3dc8f1b40a3303acf9
+SHA256: f1dcbd8dfd79e86cfb43694a2c19312ea24720422124193966190d7c8f718e85
+SHA512: 76ae64953d2407f5ecae96293d1235fbf305ae4241938181e621c2b517a5346df74c11b6c47b8b04d55795c125e4eff61a99fb1d09cfbed0c55ff96d986fbf99
+Description: WiFi pentest utility
+
+Package: softap
+Architecture: all
+Version: 1.0
+Priority: optional
+Essential: no
+Section: custom
+Installed-Size: 4.63
+Depends: python2
+Filename: ./softap.deb
+Size: 2456
+MD5sum: 61369bbcd6da9a83aa2305e00b86f9ff
+SHA1: 5a6d6f36c74722bc705683ffbe55b11f30185bac
+SHA256: dad5daa5e3a05600d06dab18f82a4d6c7a2757006035d49af3e140f7a2a45f15
+SHA512: a6dfa294e3589b844356a4e8f57fdae8645c646e3c4511eab45915c0603fc8d3bed05fd63da0da7ed9c901f3059c4db32b5ebf26b17fd6846bd9167fee37ff70
+Description: WiFi pentest utility
+
+Package: termplayer
+Architecture: all
+Version: 1.3
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: StalinKali
+Installed-Size: 0.784
+Depends: fzf, mpv, ffmpeg
+Filename: ./termplayer.deb
+Size: 1192
+MD5sum: fff576f9f0914bcb21aae198b36ee5f9
+SHA1: 3ee7883f7c8fe116992768ca61578d3ebd6f0052
+SHA256: f45131ced4f50b819610a74d3082576cf6ad7248ff760f95a71743a3513ff856
+SHA512: fd740452130acd625e001562a3a0e30035e8c3399e05ec0f6c6d4feebe33133492724aeccd11d88e4654c37d310554d8d4a09f1685493b7df1d7b98638c2ef5b
+Description: MP3 Player for Linux
+
+Package: timer
+Architecture: all
+Version: 1.0
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: Dima-diep
+Installed-Size: 0.201
+Depends: python3
+Filename: ./timer.deb
+Size: 916
+MD5sum: b9b9ad1a108a5927f2b26709a1bf4fd3
+SHA1: dbb1475cbe756050c2b87adad1a18ce277e8b2c1
+SHA256: adb76db5acea805bec75cc2fd7d577b58e5d2a3658dc4f91d922a190875a0a40
+SHA512: 3607fb4c32d2638f25fd36e8d23d94e558169b2b279de96a787ffa10f8e28a75c422f03694a568202e059b4be3260c03ac6e26a7ba8d8ee2b0c156b1854d1f38
+Description: Simple timer for Linux
+
+Package: vid2aud
+Architecture: all
+Version: 1.0
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: StalinKali
+Installed-Size: 0.192
+Depends: ffmpeg
+Filename: ./vid2aud.deb
+Size: 912
+MD5sum: 39cc722a7759ff7d81ba87d5a17134d6
+SHA1: dbdaa1e92a1e9f1bcf53476b49f714fcf12f984e
+SHA256: 689108dfdc5682afb0a25eb945f9e7b86d5f5a320a0519443cae1d21227af48d
+SHA512: 423799c4565af17be73927d130bb748d32ae11528f206a4515c4cd569ee488135be7b1093c9fc3f4a673a5c3b709ac447dc791cb2d8ad967ebd7e48a00125ee2
+Description: Converter video to audio
+
+Package: yt-audio
+Architecture: all
+Version: 1.0
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: StalinKali
+Installed-Size: 0.061
+Depends: python3-pip
+Recommends: python3
+Filename: ./yt-audio.deb
+Size: 904
+MD5sum: 0202b7ec97db9d7a3415bd46cd35ff42
+SHA1: b3864a128afb0e108c0cba2003fb328343332674
+SHA256: 0dc99f95f0a0a7f78f62275f88a06bac61fc1301d3606b9a0bf5b7beb47d129c
+SHA512: 12638c5cb9d302aebcc77b745e9a5bf4299ee7bb61b3d0d8c2b2a168829e980c958cb911fb635e8530dc9e319330557358bb676fa7c89adf47547fc83ea4200b
+Description: Auduo downloader from YouTube
+
+Package: yt-video
+Architecture: all
+Version: 1.0
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: StalinKali
+Installed-Size: 0.059
+Depends: python3-pip
+Recommends: python3
+Filename: ./yt-video.deb
+Size: 900
+MD5sum: 3c74ce02f7bb9e16ffabadb14640d657
+SHA1: 417d44e9f2e612878a0b87516c58649541dd5ee3
+SHA256: 69ffb82427be4250c8938a2c311d88a3a80e025b37e616a88c6248cd2b9a62f2
+SHA512: a5b955259f51d95a559d10634fc8551718cd71b138d281d549790e2bac4089623457587ca67c45f07cf448f9081025278cf407c2db625fc6f045a36f274ef69f
+Description: YouTube video downloader
+
+Package: zenmap
+Architecture: all
+Version: 1.0
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: Dima-diep
+Installed-Size: 1.349
+Depends: nmap, dialog
+Filename: ./zenmap.deb
+Size: 1192
+MD5sum: d187b87a3c78a39c9426b60ef22160ff
+SHA1: 8afa2dfb21fd6240c6b1d903809aeb6b74d0db13
+SHA256: eac1b59a27ad661a20e6d01601c336fb6ac462c0c92c518da9964e5c7ff064f8
+SHA512: ae53c1db5448ee724cca16f099636e6fac321ed89f897fb6b16559d5828feda2b6fe7144a8dc7d2d5bfcd0fa1a1a6434b32eec2d4d16961e9063f7508e5de952
+Description: Zenmap
+
