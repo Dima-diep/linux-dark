@@ -1,0 +1,13 @@
+Package: upx
+Architecture: ppc64le
+Version: 3.96
+Maintainer: upx
+Installed-Size: 459
+Filename: ./upx-ppc64le.deb
+Size: 470436
+MD5sum: c53f396914800e8e60919baa36abea97
+SHA1: 21118b18ae3d1325aa2c5c7979a900ae08198aa3
+SHA256: 26f703ef5e86bb290a0dcdbf9af88e93606283934626eecea0eaed498e00ae8f
+SHA512: c2ad44160b2e74b1639f92fb14d658ea77a26f03394d9c37e3c3cc2dc4dc149185c7b1ceb6b2f47ea5a3abb5448a0a71915d220daf813d823e5197ac0c6a2ed2
+Description: Reverse engineering tool
+
