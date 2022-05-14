@@ -1,0 +1,14 @@
+Package: mkbootimg-static
+Architecture: s390x
+Version: 1.0
+Maintainer: Dima-diep
+Installed-Size: 1168
+Conflicts: mkbootimg, android-tools-mkbootimg
+Filename: ./mkbootimg-static-s390x.deb
+Size: 246512
+MD5sum: 9dc80d5b38827b3c84e2b84e2d83aaab
+SHA1: 5ab2dcfdc60f43c0bc87901e538671e76770d9ad
+SHA256: 3dde8d219e77a86037b7038249825817d7fcb274002b7057ac66aa622d5a414b
+SHA512: 76dc0b1b805ab2d33af5b60dadae9e67945cdee303bfb4216523ff8cf6748cac3bc0055c2e696a30cee4acdf73cedce72c07d63c9f7d982cee75a29b2f632516
+Description: Static bootimg utilities
+
