@@ -14,6 +14,20 @@ SHA256: c9ce728b6a74e602a0d55a0e1dd22d3483e32ecfa44a0bebba93fcc959d44d15
 SHA512: 096e1d06d2f64b9026410fa9e2cd3bdb4eb4bf2a1c48c5fd25cefe6c863ee148fcb39ebaa01b90463eee9e6b1d6973fa74adb374e215d01d7342e33b802a31b7
 Description: Linux task manager
 
+Package: mkbootimg-static
+Architecture: armel
+Version: 1.0
+Maintainer: Dima-diep
+Installed-Size: 708
+Conflicts: mkbootimg, android-tools-mkbootimg
+Filename: ./mkbootimg-static-armel.deb
+Size: 204908
+MD5sum: 31c6c8082c4dc5a7f76c753ff937d2bd
+SHA1: dd9430055edcccc9f0248108f11e029b6a6faffc
+SHA256: 3c8a0b880c991d9d31400ca91960588774b3c79a187355fee0da76b23791fc95
+SHA512: 7caec4be6d9c9d3359f50c851940d775627451b76e615c0a80da241b2dcd93b395ce4046e07e96dedc53c5c7514ab405c4575bf64c57366cb7b3ee26ff247d2b
+Description: Static bootimg utilities
+
 Package: upx
 Architecture: armel
 Version: 3.96
