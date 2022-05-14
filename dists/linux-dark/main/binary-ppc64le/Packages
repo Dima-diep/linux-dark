@@ -1,3 +1,17 @@
+Package: mkbootimg-static
+Architecture: ppc64le
+Version: 1.0
+Maintainer: Dima-diep
+Installed-Size: 1640
+Conflicts: mkbootimg, android-tools-mkbootimg
+Filename: ./mkbootimg-static-ppc64le.deb
+Size: 319552
+MD5sum: 58e31902a42e6b6859b1bedef94a731e
+SHA1: f5db8cdd1da1dba67048b552cea4cb78b88816f2
+SHA256: 95965ddd0a6d0665b2cc82bd5c5a6ce6028b2a098e3c94b18ab3267c32ba082e
+SHA512: da06c73fab2f152d1711eaf0cb5546860e1408fbb2a0c7ffc9503cb3adf9b944632181742c8bd17e023a1bcd8a8c3219427e50a3af138f281e986813c71a200d
+Description: Static bootimg utilities
+
 Package: upx
 Architecture: ppc64le
 Version: 3.96
