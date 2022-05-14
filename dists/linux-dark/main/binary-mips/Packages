@@ -1,3 +1,17 @@
+Package: mkbootimg-static
+Architecture: mips
+Version: 1.0
+Maintainer: Dima-diep
+Installed-Size: 1136
+Conflicts: mkbootimg, android-tools-mkbootimg
+Filename: ./mkbootimg-static-mips.deb
+Size: 242360
+MD5sum: e91e3647e1c375af309c04c678186680
+SHA1: 687613cf2089630a16e2a21ce58689cc9cfbdd2e
+SHA256: 924956b3e6d582001e8680ea3edd3ee545236fd42f19a8272d4402df1e6f17ca
+SHA512: d9f1a73673d290dde91186a899f038535e5d6dbafdc0d570238824839b2c51b701f3ef1c7b140e23109b5abf144ea02b3e6df3a6ef6d47495437a386719d32ad
+Description: Static bootimg utilities
+
 Package: upx
 Architecture: mips
 Version: 3.96
