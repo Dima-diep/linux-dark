@@ -93,6 +93,20 @@ SHA256: b60fa2c93a377eaf12ab0d025cdcd4cceb2517727461d3d5a031e0b1b9f555f1
 SHA512: 023b950959dbbd0d984669c93e0be76407eb8d4baf9632a0afe95a88f36620cedf737b85c0a1185b3b61e84115271f435d197d760075e1f870f0da7a015312ea
 Description: Magisk tool to repack boot images
 
+Package: mkbootimg-static
+Architecture: amd64
+Version: 1.0
+Maintainer: Dima-diep
+Installed-Size: 1516
+Conflicts: mkbootimg, android-tools-mkbootimg
+Filename: ./mkbootimg-static-amd64.deb
+Size: 309988
+MD5sum: 92e227caa06b458b7d24dacc751f1b2e
+SHA1: 3fc83279ca3878c36bc3473b490fdaf800c7be55
+SHA256: a980cf45124bc0d97067162f3e3db2c37921ab84edf8ace39c6a0d01ace52dfa
+SHA512: daa252e7d59d7f6aed93a1c734073f74a1d8b290cc2df3d7ba0b03c7a5243d1896f2492233946f1c522aa3cae66b360e43df8d12c2184b3807f9542f125f87da
+Description: Static bootimg utilities
+
 Package: upx
 Architecture: amd64
 Version: 3.96
