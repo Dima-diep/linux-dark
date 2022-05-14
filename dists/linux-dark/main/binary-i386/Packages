@@ -18,13 +18,29 @@ Package: busybox-magisk
 Architecture: i386
 Version: 1.34.1-magisk
 Maintainer: topjohnwu
+Installed-Size: 2052
+Conflicts: busybox, busybox-meefik
 Filename: ./busybox-magisk-i386.deb
-Size: 889744
-MD5sum: 193982db3faa4901aa9bea79276ce5d8
-SHA1: 2ac769a9401fbdad44869112bcd0b26b44a84362
-SHA256: a83c5a9890544dc8e3698d1840ead5cd60d9b42c8f0916edc98a38085d137395
-SHA512: 8fc307aafd6f4b295922ff9bad02e62f45349c391e9171fc4b07660ac3fc98f8c78c3dffc0c319d2cfb3e251b5c23ecd5bb6950b5f9135551effbdfa39776f7a
+Size: 889700
+MD5sum: 87d59c4cba1961c33e9a2573ecd586b5
+SHA1: 358fe1dbde5ee27530b0bca49c650f1d4cc0e2a1
+SHA256: 5d8ab01da2277c73883147f5e37a4155f1990160e1a9fefdcc77762f5f441ed6
+SHA512: 6ab0256660df20f0af49d739716bd9ca43dcdad69694a826e996b55b8409efb3b92e6d0e6b08f5d7cd5ddffa00c36a20435eaa399bb09f42aee9e3b054176296
 Description: Magisk version of Busybox
+
+Package: busybox-meefik
+Architecture: i386
+Version: 1.34.1-meefik
+Maintainer: meefik
+Installed-Size: 1588
+Conflicts: busybox, busybox-magisk
+Filename: ./busybox-meefik-i386.deb
+Size: 768236
+MD5sum: b998e9e37f40178e2a67d0f8b9923bf1
+SHA1: aaca9198892dfd87bf8a0243804c9b32cf616430
+SHA256: 925dd0ba9db6a863140faab1f197f1214a3dfaba40e1aa18c6c3f931c9413862
+SHA512: 22bd1bc35e081c43cfc16f348f1b940469ce630ec4accd0f20f0bc5cb519c59c9fb1f21305ffe6a7fca44fba04f92018203cb0de4796f3893080eb5f0073925f
+Description: Busybox with additional tools
 
 Package: geomac
 Architecture: i386
