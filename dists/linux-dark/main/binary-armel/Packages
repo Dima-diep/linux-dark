@@ -1,0 +1,29 @@
+Package: btop
+Architecture: armel
+Version: 1.0.6
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: aristocratos
+Installed-Size: 3857596
+Filename: ./btop-armel.deb
+Size: 1028308
+MD5sum: f229e5db0663e6f1e1b030e412e71309
+SHA1: d8b76529444adb380167da6d4d26a62e96440174
+SHA256: c9ce728b6a74e602a0d55a0e1dd22d3483e32ecfa44a0bebba93fcc959d44d15
+SHA512: 096e1d06d2f64b9026410fa9e2cd3bdb4eb4bf2a1c48c5fd25cefe6c863ee148fcb39ebaa01b90463eee9e6b1d6973fa74adb374e215d01d7342e33b802a31b7
+Description: Linux task manager
+
+Package: upx
+Architecture: armel
+Version: 3.96
+Maintainer: upx
+Installed-Size: 374
+Filename: ./upx-armel.deb
+Size: 383336
+MD5sum: 34b82427bde7e8c0c4f3a365712e8ff8
+SHA1: 9752a75d25ff0b225f030e78cc2ba2043c308287
+SHA256: 0cb19cb371561018a1948fafe239ddd5a4022e10380a1268cd8192c97da9ae16
+SHA512: 527cf0b0ae67c8db1b13dd32d43fb8d424efac65dd6f0c58d2f939f278b414efcfabf01f689602b5cfcbdbd012aab94822fcf4ff3773f435eb4dfc97be512a9c
+Description: Reverse-engineering tool
+
