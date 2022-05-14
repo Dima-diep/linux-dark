@@ -1,0 +1,13 @@
+Package: upx
+Architecture: mips
+Version: 3.96
+Maintainer: upx
+Installed-Size: 435
+Filename: ./upx-mips.deb
+Size: 445000
+MD5sum: d6e68bcacb54c02308ce96d3a986b192
+SHA1: 567c25b067e2a7ee685ff30374447f6073661b17
+SHA256: beee8dc322ff274344f57801143db5037e265d05942c10f8f1a0082b747f5fef
+SHA512: cb28216a9d11422fa7fc618c4be8f0b7fc181c8d41c86877cae0816c02d91a0e57c367447032fc1104525f0f512fe2129abb910800448b9af5440efa45ab56a3
+Description: Revrse-engineering tool
+
