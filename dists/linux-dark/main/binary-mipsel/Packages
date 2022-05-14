@@ -1,0 +1,13 @@
+Package: upx
+Architecture: mipsel
+Version: 3.96
+Maintainer: upx
+Installed-Size: 439
+Filename: ./upx-mipsel.deb
+Size: 449100
+MD5sum: 4490e5b9068fb63b4d5cd67edc09156b
+SHA1: 1ef9ac49841d7f0b381713d78f2511bec3df3d31
+SHA256: 1b0a7001ac45db0727c3988dfacb61394cf2063f75996ed712f0719b67712752
+SHA512: e0c2ca26ea2ca0185f5a771f906cdd189189d379474099b9ad01770403fd63666584049b5b16f91bd30b589b6a8fd986fcda780600e5f541af967465dc1f70a6
+Description: Revrse-engineering tool
+
