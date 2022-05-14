@@ -18,13 +18,29 @@ Package: busybox-magisk
 Architecture: armhf
 Version: 1.34.1-magisk
 Maintainer: topjohnwu
+Installed-Size: 1404
+Conflicts: busybox, busybox-meefik
 Filename: ./busybox-magisk-armhf.deb
-Size: 778804
-MD5sum: f0f0c84fecf9794fef21b5f833530538
-SHA1: 567acf98bfe095270dcd0b32e7ee459ab27f914e
-SHA256: 26a9ddf296110d43121e52388614fe72bcdb097e1fec9e936a1ef1e55fb3a312
-SHA512: 0ee27238767a00ae3e44c472e2bfbfca1978ec8760f98d92e134d0466a623f7558b279bb41d467e6f16af34f45f519e55b12f7641e30db81803a05dbcdccfd9a
+Size: 778840
+MD5sum: 0b7a0cc8f02c007c83d2f0bd2d06ee53
+SHA1: 4b083e043e7a6cd5c826a7575417758422a84b39
+SHA256: ffeddcdc1a3590d8fae1f2248c6cbb8bb241bc0568ae2b58576653a8f3d4fb0b
+SHA512: 7fc1fd041a3f69e4de1320f0a880b143c03c2e725fb771d2f02d7360028dc963be0f278e06706a08758bf88380c2053a134df9b6ad516eb793dda31c448ca41c
 Description: Magisk version of Busybox
+
+Package: busybox-meefik
+Architecture: armhf
+Version: 1.34.1-meefik
+Maintainer: meefik
+Installed-Size: 1412
+Conflicts: busybox, busybox-magisk
+Filename: ./busybox-meefik-armhf.deb
+Size: 699412
+MD5sum: 088eb6df8ca841655bcd3d0176569249
+SHA1: b8ae0adf275cd93f4720cb0c2abac0dd23575cf7
+SHA256: 36390b0831b576b1132ec0063466d41a4a71f93719f76f231e9e3520e8172fae
+SHA512: c595d5d77ac360079202e5c3f01cb6ce424dd8a4fde978db8719bd9cb8ea313f48e913b867efcfe0f672bd329c680e784b53eae7e413fa11d530f81efb8270ea
+Description: Busybox static with additional functions
 
 Package: geomac
 Architecture: armhf
