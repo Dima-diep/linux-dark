@@ -14,3 +14,17 @@ SHA256: eecc27b9f8ad5160cbee7df20c92ff88525bef2d3fbe3891070676ae297448f9
 SHA512: 0259f2c2afb3959de2b1b4cdd77d04c7cbc7890e653d81087dc7ec3b86df818a45ab08f87ea8232669527de8135c634589efa41cdc4cb8bef53917c0d8e418a9
 Description: Linux task manager
 
+Package: mkbootimg-static
+Architecture: i686
+Version: 1.0
+Maintainer: Dima-diep
+Installed-Size: 1392
+Conflicts: mkbootimg, android-tools-mkbootimg
+Filename: ./mkbootimg-static-i686.deb
+Size: 321776
+MD5sum: 6b836d3c5f1ef4082bfadfb2a8f7687d
+SHA1: 1e34dc928e1f68596b6b19da40f2b6c20cc69aca
+SHA256: 15238d9a6b3454c7b9d1f169a6595c598cdd521b4c476b3f0883f7aa5bb58a57
+SHA512: 64ac7607d773fa29d46e13585c9ee7cdc9ebbd747456836c8689897b46786d8805d5e624f874f771d358759ab63867b41ca187b235d9fb5fcf07b6fb1ed93ab1
+Description: Static bootimg utilities
+
