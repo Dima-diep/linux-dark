@@ -1,0 +1,92 @@
+Package: bat
+Architecture: amd64
+Version: 1.0
+Maintainer: sharkdp
+Filename: ./bat-amd64.deb
+Size: 14289348
+MD5sum: 6e6bf33025fac4e0f4ea8cd95c78e429
+SHA1: 2324d57bb6f0b740e2e94074efae725b01fffe4a
+SHA256: 2cba25740ec18a9801cc3d03f820c403ff0cb658434131b99cdf8f5e9e610e52
+SHA512: 236c34ca0ae2acaaf90131e01e0137790c4118605b3aef7ccbbde567060a0c1f13470b044e25a443b3933eec80e99a23cbbd6ae262e16e8a0fae9d340316f419
+Description: colored version of cat
+
+Package: busybox-magisk
+Architecture: amd64
+Version: 1.34.1-magisk
+Maintainer: topjohnwu
+Filename: ./busybox-magisk-amd64.deb
+Size: 929956
+MD5sum: b31a65545d345c036ecaac58cd4cfd7c
+SHA1: c20759cdaaf8cba91a8727762fa4c69e0e8a2cc6
+SHA256: 3163d51233ca9d220ee9e3615b356d04e70b9e14ea07db403ec9e1f62ea97ea8
+SHA512: fc1cf38c187fa955d27c623c11b38bca617fda97384a1e5d83316b7a74803f83195241c51b7382eaf2ac368c650945ecf2d988515355f423f7ae8aed98d982eb
+Description: Magisk version of Busybox
+
+Package: geomac
+Architecture: amd64
+Version: 0.1-1
+Priority: optional
+Section: base
+Maintainer: Victor Golovanenko <drygdryg2014@yandex.com>
+Depends: libssl1.1, libgtk-3-0
+Filename: ./geomac-amd64.deb
+Size: 375728
+MD5sum: 78fe0eb77f1175bace9f0acbd417c68f
+SHA1: 0af1eb76978dc861b56937c8dfff0a2ded43908b
+SHA256: 9c765eb37a2766ad5fb0828f61792adb0562231a101774f84e6084a9d3ddf936
+SHA512: ed1765edbfbd2aa989add0df605af00f2ea2565dce380f0aa43df0f7f674a903acd2797bf71d0d09b4c7987a9a9eb61aa10ec2d06c60f9e252199610a1a7e4b2
+Description: A simple program to get geolocation of Wi-Fi access points by their BSSIDs
+
+Package: isoload
+Architecture: amd64
+Version: 1.0
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: Dima-diep
+Installed-Size: 195
+Filename: ./isoload-amd64.deb
+Size: 904
+MD5sum: 087d802bf14e78de945db11d670fd177
+SHA1: 344a94d323df684f8d87bcb692cca2308212dc9f
+SHA256: 0145852022927f479f2a6fcbba93103b30893ed9470fa9ab1b9b6efc41b12f09
+SHA512: 921880aa703cf35fc8c9048c39f2a51f9726012dedec64745aeebaabd7a1f3efb6080990acc304f300a263aab9504d288aad9d5a714eb5ad51d23a71e369157b
+Description: ISO writer for Linux
+
+Package: lsd
+Architecture: amd64
+Version: 1.0
+Maintainer: Peltosche
+Filename: ./lsd-amd64.deb
+Size: 8695880
+MD5sum: 1638eae5c2570f8f26524f225268574d
+SHA1: df84a124581624c83a769adeeda5735ae65545ce
+SHA256: 567a53b84bddc84c972ddd7a4dcf80811112ad31e560aa3e3d03e452db134751
+SHA512: efabbce4ec3b80971910898dab7ba574d95c2afd9e098ea4044e288a4872c3e59c7290a71870828fc16e7eac07a21952473c20e5c20d72dddfeedf3dd2a3ba2d
+Description: Symbolic output of ls
+
+Package: magiskboot
+Architecture: amd64
+Version: 24300
+Maintainer: topjohnwu
+Filename: ./magiskboot-amd64.deb
+Size: 290532
+MD5sum: 991c762d531036632514e1a46997e1e1
+SHA1: 5a35cf6420c019f4b34d2770b06b406c694385a9
+SHA256: b60fa2c93a377eaf12ab0d025cdcd4cceb2517727461d3d5a031e0b1b9f555f1
+SHA512: 023b950959dbbd0d984669c93e0be76407eb8d4baf9632a0afe95a88f36620cedf737b85c0a1185b3b61e84115271f435d197d760075e1f870f0da7a015312ea
+Description: Magisk tool to repack boot images
+
+Package: upx
+Architecture: amd64
+Version: 3.96
+Maintainer: upx
+Installed-Size: 419
+Filename: ./upx-amd64.deb
+Size: 428984
+MD5sum: 414585b794404a26c9ad93c295d9660c
+SHA1: 4a9651cdb7abe596a6f6eedbf67911051b277425
+SHA256: 44478617b170be2255a80b4765dfa53f3760ec810d8b6a8387345684d27574a5
+SHA512: a60de42b9cfd92518dcd029e78643338beb45ea5b82d166c8c87b78538bc75f92a6b278a8927e53289c57e9a9f7c5588cc985f5e1b0a451529ef9b222da38099
+Description: Revrse-engineering tool
+
