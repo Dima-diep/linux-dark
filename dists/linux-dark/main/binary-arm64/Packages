@@ -28,17 +28,31 @@ Description: Linux task manager
 
 Package: busybox-magisk
 Architecture: arm64
-Version: 1.34-1-Magisk
-Priority: optional
-Section: base
+Version: 1.34.1-Magisk
 Maintainer: Dima-diep
 Installed-Size: 2056
+Conflicts: busybox, busybox-meefik
 Filename: ./busybox-magisk-arm64.deb
-Size: 857948
-MD5sum: 08f26fc94692cccd50683625dc5e155b
-SHA1: 09201a359761e506ed3553ad7be785b673d3cab8
-SHA256: b0ef732667505453ef01d7904ee3ca2c6564931e6873f0e9902eb5259da9dbac
-SHA512: 80833463f7d39fcc12bc2dce4a568068bba5d09df268af62c18ddb729daa59e3907614fe6ecb746bd88ca2110c681f03f0c1aa3ade72abbe53fae935de12e8b0
+Size: 857832
+MD5sum: 598864edcfbabc9b428f97a88288a56f
+SHA1: 3f63f272f687b0cd2ca23944fe48cf60fbac2df2
+SHA256: e91ee0c403cc2800e459e2b8894a0c6a39a07670a9e0639be93f45de47561bed
+SHA512: 092abc859dccd8b3d76acc52ed22b3b5af2173e6263a20fc855da8f8cefb73a85bb59646d5fada2f0de61e7ad62ee480665663ea9bd15a76e7bdff532fa618af
+Description: Magisk version of Busybox
+
+Package: busybox-meefik
+Architecture: arm64
+Version: 1.34.1-meefik
+Maintainer: meefik
+Installed-Size: 1556
+Conflicts: busybox, busybox-magisk
+Filename: ./busybox-meefik-arm64.deb
+Size: 727908
+MD5sum: 467f6fdeb55cdcfa554bf8d902e9e4e0
+SHA1: 4834cb67760a4383bec6e047f5f2969b95e335d6
+SHA256: 1fab7a0a789d3b258b1098b9a0bbf26e9ce1ef0758cf0e0834d5ea636ad5a789
+SHA512: 12a75f0553ee37196d49281c0beaea99e517156b7bdd0d5cdb32e8e59ab5484dca71c894d421c691cd2753018aa2a578246cb02ec5557269812017d792ae84c8
+Description: Busybox with additional tools
 
 Package: geomac
 Architecture: arm64
