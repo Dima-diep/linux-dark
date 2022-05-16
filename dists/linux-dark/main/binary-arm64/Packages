@@ -10,6 +10,331 @@ SHA256: daa7e077fd6810ce607afd99cca748dcc71e6fe77c6ba4c4c714191a6099658e
 SHA512: ecf1e4ee91497a8fac6a577196d57f2d9bc9fea2a8960a606aa975679ea8a89c22397ebeaa42e1ea369b582ca5f102156a5e166337b72558ab9f6aa93ddd49bb
 Description: colorized version of cat
 
+Package: binutils-aarch64-pc-darwin
+Architecture: arm64
+Version: 2.38-dimadiep-1.0
+Maintainer: Dima-diep
+Installed-Size: 48736
+Filename: ./binutils-aarch64-pc-darwin-arm64.deb
+Size: 6394096
+MD5sum: d1b74799400693108d8e7dfa12524042
+SHA1: 99f7ed20124a15ccf29dc633c07451fe8090f202
+SHA256: a021320fed5abb09cbcb3b93ff1a6ca7c0905c94c455181e98dcc53f218c44a9
+SHA512: 2bf2dd994ff64974a769070cb15935b02573f29f8d290558da7d35cfdf4c73209a2622c6aad76d7cd87cd69991324b2df78220d3e750deaa1edae4a15b5f5fc1
+Description: binutils for aarch64-pc-darwin (macOS)
+
+Package: binutils-aarch64-pc-freebsd
+Architecture: arm64
+Version: 2.38-dimadiep-1.0
+Maintainer: Dima-diep
+Installed-Size: 98928
+Filename: ./binutils-aarch64-pc-freebsd-arm64.deb
+Size: 17168420
+MD5sum: 023c5b8b29ffe84765bab79c124813f4
+SHA1: fd7c6683c6ff30057f4444ab4c2e893a84efd66b
+SHA256: 32f973217cd46f1837cfd8e4703c92a90e336fa2aa6b20b803a3c0da06d4a83c
+SHA512: b92618524cc31fb399b62194073b75decf3073deaedf1807d72fad087dd296d8152e9c47b9986ea6d377366e7983f665d41e24b1d2b96de2e7eb94ec69fdb51a
+Description: binutils for aarch64-pc-freebsd (FreeBSD)
+
+Package: binutils-arm-pc-darwin
+Architecture: arm64
+Version: 2.38-dimadiep-1.0
+Maintainer: Dima-diep
+Installed-Size: 46944
+Filename: ./binutils-arm-pc-darwin-arm64.deb
+Size: 6169860
+MD5sum: 6d347b6c1191a6303b72bacdd3a2b86d
+SHA1: cd868b1f024ad6708a581f6a957d03014c79899a
+SHA256: acb2eec5ad1cfcdebba8702f1ba1175812b79c759331763f0e8cb55ee0cc77e0
+SHA512: 6c3fb9c3a3d1b196c3e467d379ea67873536005f49dd18619e2f0b2ba6361ac54b4ee67653fe55f6b675596f2d30a64986e688dea5015e09251d2bffa3ac10ea
+Description: binutils for arm-pc-darwin (macOS)
+
+Package: binutils-arm-pc-freebsd
+Architecture: arm64
+Version: 2.38-dimadiep-1.0
+Maintainer: Dima-diep
+Installed-Size: 89324
+Filename: ./binutils-arm-pc-freebsd-arm64.deb
+Size: 13483176
+MD5sum: e3702e8537d3c9930e9a3789e140abd5
+SHA1: 737d6fd1315e7e42ee238a3fe0c56acfdf75c17f
+SHA256: bcc76f7d5b914a197da758dd80c5b1b0a553f572adfb1c1b0b276b89a421eea3
+SHA512: 122b23b3ca8109893dcaedd7bae16983725f7c28e52bf91f55b8a3aec9cf551d840cddb6c4a86f39e8f106add331d3d4ab1d046daaeaf6f825a792d3a3c6221f
+Description: binutils for arm-pc-freebsd (FreeBSD)
+
+Package: binutils-arm-pc-netbsd
+Architecture: arm64
+Version: 2.38-dimadiep-1.0
+Maintainer: Dima-diep
+Installed-Size: 89312
+Filename: ./binutils-arm-pc-netbsd-arm64.deb
+Size: 13484212
+MD5sum: 387c1c83b69bd51809262ef0261842ed
+SHA1: ff779cf848abbd00c18c5320d03c9431bf650ba6
+SHA256: 4d8a6d870edb423a56060c5522e26abfac7d8b302132561001ad9d8c95af7bd6
+SHA512: 33c33fe8d1e6422e2624eee5b313b6bbb8b0187eac6573590ee3db2640358ae34819c6486632ef34ff6e17cdd733e935848038f8ab52c0a0d744c75161704e7a
+Description: binutils for arm-pc-netbsd (NetBSD)
+
+Package: binutils-i386-pc-darwin
+Architecture: arm64
+Version: 2.38-dimadiep-1.0
+Maintainer: Dima-diep
+Installed-Size: 54472
+Filename: ./binutils-i386-pc-darwin-arm64.deb
+Size: 7809832
+MD5sum: cb5a37598b991eeb6b2f8d844e35f031
+SHA1: 7c0d3997f2405d90c5a9776a1a394058f1c6b5be
+SHA256: 0cbb71617416cd9b6cd822a95f3a3312925465c15ec0ae54d7b45d61ae925076
+SHA512: 0bcfd804a4a27b7f00af47a12ef81f5c9e556a2a1cde85e78eff807dce8a4b2f5bedac5e6ef2ff9da1c3371609445c540fb8792558d5fd9296463d7de549b712
+Description: binutils for i386-pc-darwin (macOS)
+
+Package: binutils-i386-pc-freebsd
+Architecture: arm64
+Version: 2.38-dimadiep-1.0
+Maintainer: Dima-diep
+Installed-Size: 107360
+Filename: ./binutils-i386-pc-freebsd-arm64.deb
+Size: 18071744
+MD5sum: 7c0dd97db4009607b5f284a53215ead9
+SHA1: b0bd65fa9c59ece96914d86168b309ac9ea304ee
+SHA256: f2e64758316d485bfe97003dfc694f0c40fdc97d19e6b237843700f5f6f14a51
+SHA512: 4e70c82dc25c1926533b5c743d49f47cc1ab0b3319f1fbe0690b37381c0e3f3580ef27ea73cd148d480d41b47423a56e47902f2616f3b447607b7d0be588cb93
+Description: binutils for i386-pc-freebsd (FreeBSD)
+
+Package: binutils-i386-pc-netbsd
+Architecture: arm64
+Version: 2.38-dimadiep-1.0
+Maintainer: Dima-diep
+Installed-Size: 89916
+Filename: ./binutils-i386-pc-netbsd-arm64.deb
+Size: 13608296
+MD5sum: e3eceb733704f6272e17e3cf3d2c82fe
+SHA1: 3503cb9daffaaed2adf84618af2bc45702c04eed
+SHA256: d7aedaaf1c0dcf5fa783c3a68465f0dca1158f5a3f35b899aa64dcaf2faa6db7
+SHA512: 5621897774b158bdb19d8a2730ef5403e4f0362b20cffed70b6dc65a12db2fbc9dec89846c175ce8f872dd5d298d1dc5f7bf0262d01f1be9b22e815bda93544b
+Description: binutils for i386-pc-netbsd (NetBSD)
+
+Package: binutils-i386-pc-openbsd
+Architecture: arm64
+Version: 2.38-dimadiep-1.0
+Maintainer: Dima-diep
+Installed-Size: 84056
+Filename: ./binutils-i386-pc-openbsd-arm64.deb
+Size: 13505940
+MD5sum: 08d4f1a79d05aa90e8f573b1f19f041a
+SHA1: c01c75e52e39958ec8f413487e248a91ec8ebd8e
+SHA256: c1524d5f52db15af803a28461a9f0d190738a33113184306fd7507da4b861229
+SHA512: 5eb938bcf947c70e3572c327e6aced2ae55fe200a2db33410b613860032c52acd3536a480c836406a76e36dc40a950ef12613832a8faf3b6b9565d559ea1b023
+Description: binutils for i386-pc-openbsd (OpenBSD)
+
+Package: binutils-i486-pc-darwin
+Architecture: arm64
+Version: 2.38-dimadiep-1.0
+Maintainer: Dima-diep
+Installed-Size: 54468
+Filename: ./binutils-i486-pc-darwin-arm64.deb
+Size: 7802440
+MD5sum: 75a4dbf0a928770a657ebdb902cbbcde
+SHA1: 105652181b3e6eec3dba5cfe7e97de37d913f450
+SHA256: de24a079bb5c84a9dae31d4a1ca8cd0e60700433775fc3d337ad94612770d5d2
+SHA512: 0fffcc39cfbe189af6521289c21346018bae649a88959d205366b99fd7fc0f807ce439a7f00a07da3972afff640cc08caea497f5a8395c1a231b2d88da11ae2c
+Description: binutils for i486-pc-darwin (macOS)
+
+Package: binutils-i486-pc-freebsd
+Architecture: arm64
+Version: 2.38-dimadiep-1.0
+Maintainer: Dima-diep
+Installed-Size: 107384
+Filename: ./binutils-i486-pc-freebsd-arm64.deb
+Size: 18067872
+MD5sum: 075070aceeff6667cd182686537a613a
+SHA1: 959778bb0ee5efac73a12a76970ab8fe4a44d92e
+SHA256: be41212cd283cb545a5632e72e3861705ff67efffa13ad998dafe52f6e829430
+SHA512: c8092fe9243d4af7c82fd4dbda061b71abe472b8af2fcc1669fecf3da99f6a5add9fd2444c84eb5f7d6d8c52fe9cbfbf2234a53326e1c0d024f626e9f2a903ec
+Description: binutils for i486-pc-freebsd (FreeBSD)
+
+Package: binutils-i486-pc-netbsd
+Architecture: arm64
+Version: 2.38-dimadiep-1.0
+Maintainer: Dima-diep
+Installed-Size: 89900
+Filename: ./binutils-i486-pc-netbsd-arm64.deb
+Size: 13602844
+MD5sum: 4ed070071dbef4c1c213f1223b18cc02
+SHA1: 9661b298c345fe3beb7a0247bfc02be63af7266f
+SHA256: eb18b30273a42f39601020972e46521d6ff4a408bb25a1fbc05fa89fdcf78432
+SHA512: d239bbf1f2318410871a651343e192c8fa6d78a5adcc07eb495d6b61d1fc59a2c803ea0f38ecf0f54016988a460e081466c154c90167601559b8a3b4072705a2
+Description: binutils for i486-pc-netbsd (NetBSD)
+
+Package: binutils-i486-pc-openbsd
+Architecture: arm64
+Version: 2.38-dimadiep-1.0
+Maintainer: Dima-diep
+Installed-Size: 84060
+Filename: ./binutils-i486-pc-openbsd-arm64.deb
+Size: 13496044
+MD5sum: f2af76d0e62ac9815b02252c96765976
+SHA1: 2fa57f76175674f22a5921b8924f204b3f8ba207
+SHA256: b9db46a3f6b0bb59c91fc7d049c5a788594def988ce71c26b5a2c1aa6f01b3f7
+SHA512: 40b304e0927c38b2dda1c8bdedd5bc63f4c7215fd30518a2a90b7a6828c8df1221cdedb20305c4343842a988b7643eb60cfccc01be37e1d18343a66a6a6367a7
+Description: binutils for i486-pc-openbsd (OpenBSD)
+
+Package: binutils-i586-pc-darwin
+Architecture: arm64
+Version: 2.38-dimadiep-1.0
+Maintainer: Dima-diep
+Installed-Size: 54464
+Filename: ./binutils-i586-pc-darwin-arm64.deb
+Size: 7803604
+MD5sum: 7dba777c55c557c6a56e5ee8832b1fec
+SHA1: f21b70d1b1a5e1471bd37ca519447826ac181339
+SHA256: d13ce00710769b75ca339b0ab83f09dec3fd6fc6bc0e9eb253d84bc73189585d
+SHA512: 274bb2f7601b8da266faf0ce64b89c51a935d72847994de29f426580eedb0fe7704e6f0f8ef49bb62fd87441891ddf28616ae71d0aec460391666ea5d876ea8a
+Description: binutils for i586-pc-darwin (macOS)
+
+Package: binutils-i586-pc-freebsd
+Architecture: arm64
+Version: 2.38-dimadiep-1.0
+Maintainer: Dima-diep
+Installed-Size: 107368
+Filename: ./binutils-i586-pc-freebsd-arm64.deb
+Size: 18063784
+MD5sum: a6656a7fdd399a10888c07f5338de8b5
+SHA1: fb3a9377d3db3025736c4cdc206d74ae2a6fc9a9
+SHA256: c6b7de2dcf377f23dc10fc403c569732f18b303655535cfc88bd3ab793b3d970
+SHA512: 75ea6695b706b7f894230fc0a324f5203a524d18eca25a61b7997e59d612dc86ec5d7b9a4f8f58906cebb3c4f474f0e0e0659c37bacf07bc33c6bc89a282a796
+Description: binutils for i586-pc-freebsd (FreeBSD)
+
+Package: binutils-i586-pc-netbsd
+Architecture: arm64
+Version: 2.38-dimadiep-1.0
+Maintainer: Dima-diep
+Installed-Size: 89928
+Filename: ./binutils-i586-pc-netbsd-arm64.deb
+Size: 13597456
+MD5sum: 9a8c1a6f8c225ecb33ac3347746107ed
+SHA1: 4884c72f2456a215c31597fd7e0cc7fe5bf9bc62
+SHA256: b80bcd9b55b3cecd4ba108c43d870fcde4344c8aa96935b3cfc303f1f2424ae1
+SHA512: 92445c76fdc0f3be040bca0b1b42a072372be99e8f6fbfe40cdca7fea3c6b97bb78fb986ef82728248c7fc0f133158bf752daa696d8188acc89415d699022266
+Description: binutils for i586-pc-netbsd (NetBSD)
+
+Package: binutils-i586-pc-openbsd
+Architecture: arm64
+Version: 2.38-dimadiep-1.0
+Maintainer: Dima-diep
+Installed-Size: 84064
+Filename: ./binutils-i586-pc-openbsd-arm64.deb
+Size: 13500732
+MD5sum: 71e96762e624bedfd914f7a46602e8ae
+SHA1: 2b451c6aa39136dc73a665aa1547a119a4ce1478
+SHA256: 2afa581c45c4a2fe3e4ced3be272b15f74c786e3dbe2c33e744c6e467eb209bc
+SHA512: e15dc47f6287a0013aa2c52c482f61c6d68472ca7bac073866bf94013956e5341b1e75297057b06b68e4a0d90a2e2ed362ec21f058b5a053f46b5a23e353e034
+Description: binutils for i586-pc-openbsd (OpenBSD)
+
+Package: binutils-i686-pc-darwin
+Architecture: arm64
+Version: 2.38-dimadiep-1.0
+Maintainer: Dima-diep
+Installed-Size: 54460
+Filename: ./binutils-i686-pc-darwin-arm64.deb
+Size: 7806896
+MD5sum: 242e15bd600e73b01c1c66bc1e0d68aa
+SHA1: ce756fc685bf06ff7b756febaa574f9d51e06c53
+SHA256: 859d042881de131e2795e859e02bd72cdbf234394a3aa8681f9f805818488bfe
+SHA512: 26170a7764180aeffb8617a4de419ea43fe24fe6fb1d186a3ec42e83e5a210142343035b1549f1933475fe6a95ae6fb3725a186a118885549be298abaea5d268
+Description: binutils for i686-pc-darwin (macOS)
+
+Package: binutils-i686-pc-freebsd
+Architecture: arm64
+Version: 2.38-dimadiep-1.0
+Maintainer: Dima-diep
+Installed-Size: 107384
+Filename: ./binutils-i686-pc-freebsd-arm64.deb
+Size: 18068280
+MD5sum: f323f3a7e4fc90adb6ff5ffb0bf22f46
+SHA1: f373bcf60ec7684c6910b91792a2bbe5bfcaadea
+SHA256: a7330cc393255f2da54e6092d5dab4bdd03bed520a673efd1aea1791e23e631c
+SHA512: 3f18ed6b48caa2480dc6452016c7a2d205ec257701b07af83701c1f0bbd78f8b4151019e85767962f31a2c5b650cc63933663fe90794dd63a1cf21718155cdaa
+Description: binutils for i686-pc-freebsd (FreeBSD)
+
+Package: binutils-i686-pc-netbsd
+Architecture: arm64
+Version: 2.38-dimadiep-1.0
+Maintainer: Dima-diep
+Installed-Size: 89932
+Filename: ./binutils-i686-pc-netbsd-arm64.deb
+Size: 13616920
+MD5sum: ab364b78112f76c2204ee26df7f5da1f
+SHA1: acb5f166d1c54b9a901ccc0ea2d37051f7208166
+SHA256: aa8a8195cf81b5eaf16b81f31aef591f3e69fea7f193298fd00be7e5fa9a22cc
+SHA512: 816751e75b56bb9a4dedddd5c80957dceca58072e3d1081ee79d5eaf10f3dcb4f781006fd05a3975c65347e26f3380fca37c59df06102fed2c9213be02d05590
+Description: binutils for i686-pc-netbsd (NetBSD)
+
+Package: binutils-i686-pc-openbsd
+Architecture: arm64
+Version: 2.38-dimadiep-1.0
+Maintainer: Dima-diep
+Installed-Size: 84064
+Filename: ./binutils-i686-pc-openbsd-arm64.deb
+Size: 13493864
+MD5sum: 392131953804fd162f4f3189ca7d2bdb
+SHA1: 6a3c8c2f05ba8c19ef6c76c39ada11bc4aec7f2f
+SHA256: 12a848ffd8a311b4dfb9287d80eddda9c8432b009c6cdd62fb35f5b9385a3657
+SHA512: f2737b9fc01e881ffeebad90e5c407d0b1abebb8fe8e55fda824e20718e7efc5fdfb49ba5e658d53f419a28f60f9313db1f426332777f0f785b1d076d3813a58
+Description: binutils for i686-pc-openbsd (OpenBSD)
+
+Package: binutils-x86-64-pc-darwin
+Architecture: arm64
+Version: 2.38
+Maintainer: Dima-diep
+Installed-Size: 48972
+Filename: ./binutils-x86-64-pc-darwin-arm64.deb
+Size: 6338524
+MD5sum: f3db418b830b9d7f08d2853ff0b0b7a4
+SHA1: 5c15f3275f9994ab1a99545ae65f7b7016b6856c
+SHA256: ff1819781f122cb6f750b76032511bdd7951c3e09d38b8fac0d0e4c02d6b7de7
+SHA512: 99ff9973f945c58121d0367b4e1c9752071eab71aa9b4c1a1b531bf35beeb9371eb58a38cc6f76a6810801b952194d2793fca813e8b313441252a39e7801aae3
+Description: binutils for x86_64-pc-darwin (macOS)
+
+Package: binutils-x86-64-pc-freebsd
+Architecture: arm64
+Version: 2.38-dimadiep-1.0
+Maintainer: Dima-diep
+Installed-Size: 107904
+Filename: ./binutils-x86-64-pc-freebsd-arm64.deb
+Size: 18005796
+MD5sum: 038b84c339ad8ea7e360324f16ef0dd7
+SHA1: d91c5181ec74f7b9671569a8289a17d0c88b733d
+SHA256: 05fe775b5bd551f61c90fa0fd761682b79b5be6d5ec5bbc6946feff78a7d3b71
+SHA512: cb2217d8de6fd9f6230d668b99284d8c68604bf843bf0a84025ed5fb69ed93dc1ceaf48aa067a1eaaebce659e24930b4ca68e5b6f981edb3163a0cffd154617c
+Description: binutils for x86_64-pc-freebsd (FreeBSD)
+
+Package: binutils-x86-64-pc-netbsd
+Architecture: arm64
+Version: 2.38
+Maintainer: Dima-diep
+Installed-Size: 95172
+Filename: ./binutils-x86-64-pc-netbsd-arm64.deb
+Size: 17304220
+MD5sum: 32dc23cb926b18a2a3ed0953dcec99ae
+SHA1: 6e326223ff66bd8295d41c151a1929596b0f5143
+SHA256: 294e70860d79ac91f4ae21d3d3f3b11becced8fa62cea32f918a8641bb6ffdef
+SHA512: 6b2fc2f443b05e5013a4cf8dbdac683e3a54b30d27d00d4681b09a99760539094096e863326bc54da92b9aba11aa2b0700ddcf8d156fe2a4746276c930518b5d
+Description: binutils for x86_64-pc-netbsd (NetBSD)
+
+Package: binutils-x86-64-pc-openbsd
+Architecture: arm64
+Version: 2.38-dimadiep-1.0
+Maintainer: Dima-diep
+Installed-Size: 107460
+Filename: ./binutils-x86-64-pc-openbsd-arm64.deb
+Size: 18041552
+MD5sum: 8c09d3ceab6ce84c65ca26b7872cdddb
+SHA1: 0eceeafe341e5452e9cf3f83be21bd9e3f799247
+SHA256: 1d0fe795cf301fad2d86c3f49fcaa8616ede2864a235bfb857f12b407eac3338
+SHA512: ed240a4248a6318a14a356decc8ccc4a7b82003f841af95f100ae748c95b72bc923e439012e11b5056efaeb7e31acfdc12aa592e2f767266b87e584bc49c6f46
+Description: binutils for x86_64-pc-openbsd (OpenBSD)
+
 Package: btop
 Architecture: arm64
 Version: 1.0.6
