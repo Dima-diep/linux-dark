@@ -379,6 +379,22 @@ SHA256: 1fab7a0a789d3b258b1098b9a0bbf26e9ce1ef0758cf0e0834d5ea636ad5a789
 SHA512: 12a75f0553ee37196d49281c0beaea99e517156b7bdd0d5cdb32e8e59ab5484dca71c894d421c691cd2753018aa2a578246cb02ec5557269812017d792ae84c8
 Description: Busybox with additional tools
 
+Package: dec2hex
+Architecture: arm64
+Version: 1.0
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: Dima-diep
+Installed-Size: 67.9
+Filename: ./dec2hex-arm64.deb
+Size: 5980
+MD5sum: f2ad0a590350b9a17f7d196cd1bf347b
+SHA1: 73272f978ccd86043b0e09b86ef1c36a724566a8
+SHA256: 19b61fe82a37367c9e2eb90b546dd443f9f2e17f51e706154cc1c792d26c1433
+SHA512: 40625d27f90c90333491b1d2ade65febd12c4156af7572f3beb5f0d1a2147d8827e19cf99265b552eaa1b9296cb2d5c7ac07eb70612a55fa07f98879e7adad7a
+Description: Converter DEC to HEX
+
 Package: geomac
 Architecture: arm64
 Version: 0.1-1
@@ -393,6 +409,22 @@ SHA1: d1bcc9742742eef008297bb86cc10c317c02d587
 SHA256: 5ff0cdbc40722a83801e3ca27a0daff5f5952c9f8f427ca40655be3845926ac5
 SHA512: a93ed587f7fc7443c333a83488dc50a31d542a8f9cbf23c148614d1196e1cac2280c50aded7dc5ea56a470614fe6e61154502592e2d862a3028fed1ad7e460a8
 Description: A simple program to get geolocation of Wi-Fi access points by their BSSIDs
+
+Package: hex2dec
+Architecture: arm64
+Version: 1.0
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: Dima-diep
+Installed-Size: 67.91
+Filename: ./hex2dec-arm64.deb
+Size: 4204
+MD5sum: 3eadfb3e3ab5fdfd530a3cf0a264c9fe
+SHA1: 2d72498b2abdfec04363718069294038f8dfca67
+SHA256: 6f49d0e848c607c07d76a5ca83c02e2e3215a6cb8bfd195b807cdfd70183807e
+SHA512: 7c86172f9fad052d68f914569761734b6d6b13899ba103f8988b9f2fc1a868ee153c4db282a9176af8bf85c5bc16c89f8f60e90d52fc131efe8ec0a861c77f19
+Description: Converter HEX to DEC
 
 Package: lsd
 Architecture: arm64

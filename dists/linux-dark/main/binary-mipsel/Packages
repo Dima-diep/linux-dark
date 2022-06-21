@@ -323,6 +323,38 @@ SHA256: d6a263287d7978c74fbf040962a9b130e3e88d983204d6b03711a4a344f6bcfa
 SHA512: 35c7cb13fc71512f935d1b80aeefd8a3a05f8080231c58b4d1c5ddf5abd5451a4164bea41385c2dd84826468fef9789b7d1a12b3da8ac18d3a3a2d74ba8c9348
 Description: Binutils for i686-pc-openbsd
 
+Package: dec2hex
+Architecture: mipsel
+Version: 1.0
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: Dima-diep
+Installed-Size: 30.62
+Filename: ./dec2hex-mipsel.deb
+Size: 8640
+MD5sum: 4e02a197a81ca0bb78b16f528bbdd23b
+SHA1: 85400de5c18c92256bf6d70effa0567ce6bc6df9
+SHA256: 820d5cc9dd24c82f1f5f6827e39b0b08fcf84c5351741f51b657509a92173f95
+SHA512: e73e73dcea3a72f104fdcc2568402cb76b45991f6d2f81d0ec7dff03697ee8bba340787c55e8aff2d476735f0eac4fa9faf9c14ba536c79eba51fde95416ff11
+Description: Converter DEC to HEX
+
+Package: hex2dec
+Architecture: mipsel
+Version: 1.0
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: Dima-diep
+Installed-Size: 13.38
+Filename: ./hex2dec-mipsel.deb
+Size: 4916
+MD5sum: ac680787df9e9bed07866caea1e27160
+SHA1: 7297d30e0325fd26f36dd38a9c46a9ac697c0e06
+SHA256: 55d1febd9746c63d681840c500db850b89733c5c5632700735d3635c456d4aeb
+SHA512: 3722f841df7edf5788f10aea5cd96ddf54dfffd9d0035ebc0f0a8242b41525571fb7cc375af1edc4cfa83b06906b0f23615fd42b5ec53f92d2b6616b20a4b303
+Description: Converter HEX to DEC
+
 Package: mkbootimg-static
 Architecture: mipsel
 Version: 1.0

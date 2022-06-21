@@ -3,7 +3,7 @@ Architecture: mips
 Version: 2.38-dimadiep-1.0
 Maintainer: Dima-diep
 Installed-Size: 48128
-Filename: ./binutils-aarch64-pc-darwin.deb
+Filename: ./binutils-aarch64-pc-darwin-mips.deb
 Size: 6619268
 MD5sum: f5e4fd6eb45035dbf840090c12d87b81
 SHA1: 773900b5d7a92b8aa43127551a15ba19f48f263f
@@ -16,7 +16,7 @@ Architecture: mips
 Version: 2.38-dimadiep-1.0
 Maintainer: Dima-diep
 Installed-Size: 98448
-Filename: ./binutils-aarch64-pc-freebsd.deb
+Filename: ./binutils-aarch64-pc-freebsd-mips.deb
 Size: 17529796
 MD5sum: b1140a2a9d13f935f9acb90e3e11d0dd
 SHA1: 7f462be5802d5a18e09f8d5926111a0fbcbaf12b
@@ -81,7 +81,7 @@ Architecture: mips
 Version: 2.38-dimadiep-1.0
 Maintainer: Dima-diep
 Installed-Size: 46368
-Filename: ./binutils-arm-pc-darwin.deb
+Filename: ./binutils-arm-pc-darwin-mips.deb
 Size: 6402524
 MD5sum: b957f868d414628b629bcc0ec1049b5d
 SHA1: 8d6c39c56df6bc1907ce19d34e0793e6fbd0823a
@@ -94,7 +94,7 @@ Architecture: mips
 Version: 2.38-dimadiep-1.0
 Maintainer: Dima-diep
 Installed-Size: 88772
-Filename: ./binutils-arm-pc-freebsd.deb
+Filename: ./binutils-arm-pc-freebsd-mips.deb
 Size: 14285064
 MD5sum: 34e9f4bf311ed0074d414b4ef10a9ed5
 SHA1: 6b84a37c46062a733b98f37add46cb469cfc0e8a
@@ -107,7 +107,7 @@ Architecture: mips
 Version: 2.38-dimadiep-1.0
 Maintainer: Dima-diep
 Installed-Size: 88772
-Filename: ./binutils-arm-pc-netbsd.deb
+Filename: ./binutils-arm-pc-netbsd-mips.deb
 Size: 14296064
 MD5sum: 1a848830f2079dd5d612b9b63b1108b9
 SHA1: 14c64d3770ad0e84afb78417f4c6df8292e34605
@@ -322,6 +322,38 @@ SHA1: 6122a71866356a6e105a85a6eb6b3210ce059a03
 SHA256: f5fe6fb269369829d37269aa9cf5f72008203eb08c191c35edf94a559ba60718
 SHA512: 61dc4a879f6fcd842193ea74ea6d49e6f56cecf3d91a62f58051bed343e8679a77d54df835bb048b1000c05f56d77dbf603acdb9b5ba0829bdadb6184364486e
 Description: Binutils for i686-pc-openbsd
+
+Package: dec2hex
+Architecture: mips
+Version: 1.0
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: Dima-diep
+Installed-Size: 30.64
+Filename: ./dec2hex-mips.deb
+Size: 8472
+MD5sum: 0efa6aff0f855096b160cf4221248e23
+SHA1: edff2af580f7afe35163fe6334a67eb370da08f5
+SHA256: 19b8dae0d60427516f675399bc61182507e8ca15e7c910c9ce14e20cd40f4c59
+SHA512: 7a007dbe19e3e3469dae2f2948d375c134d96d210b45b70dc81419266d0b2a2e25ddbbe8987dae6e88015fb116f5308169c6c3ecd9660113f8a76de90855e891
+Description: Converter DEC to HEX
+
+Package: hex2dec
+Architecture: mips
+Version: 1.0
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: Dima-diep
+Installed-Size: 13.39
+Filename: ./hex2dec-mips.deb
+Size: 4840
+MD5sum: 71f40da28c889dc7cc8cb483b4f16144
+SHA1: abb7d7fbad2918ddadefb4dfe3fd500bf5c72c84
+SHA256: c07590540be94c71450ddedb95c6aa2134556e0fe63a4b0dad81c1fc6c917356
+SHA512: 709fe85f0f1ebbcde6b034652e9e22c21a56f1269bdc4b0bae645df09375b6301aa957225d353cf233e6a1d39e09b5312bf28fc1647fcbdb861da10a89bf4da9
+Description: Converter HEX to DEC
 
 Package: mkbootimg-static
 Architecture: mips

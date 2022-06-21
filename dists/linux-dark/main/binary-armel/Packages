@@ -14,6 +14,38 @@ SHA256: c9ce728b6a74e602a0d55a0e1dd22d3483e32ecfa44a0bebba93fcc959d44d15
 SHA512: 096e1d06d2f64b9026410fa9e2cd3bdb4eb4bf2a1c48c5fd25cefe6c863ee148fcb39ebaa01b90463eee9e6b1d6973fa74adb374e215d01d7342e33b802a31b7
 Description: Linux task manager
 
+Package: dec2hex
+Architecture: armel
+Version: 1.0
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: Dima-diep
+Installed-Size: 67.18
+Filename: ./dec2hex-armel.deb
+Size: 5112
+MD5sum: 06825d131f882fde5acf33cd16fd5020
+SHA1: b17b9803afc6ec84f5eb3e59df853ff97faa7599
+SHA256: 9a696016cc87a13e80886e1dc17d4f81ce4e23a3f7e13bbecdc1f29b567a5a6c
+SHA512: b8300314a5e7bf286de189a40755155f411f32e10b1690dde82b69367c8d2e3d4ea00e304d92356021a3e570c10e86cc442e5cd09084a118d364cd0e1a4e75ed
+Description: Converter DEC to HEX
+
+Package: hex2dec
+Architecture: armel
+Version: 1.0
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: Dima-diep
+Installed-Size: 2725
+Filename: ./hex2dec-armel.deb
+Size: 3840
+MD5sum: 8c238aecfb2fe7526e75815311c3e72e
+SHA1: ce05800fa45641b4399b702e30bb0c4c7b8ebcb7
+SHA256: 7c4881418d127730cbd7bfc471d451f3a5cac5a629c0b41eb32f6686327d5358
+SHA512: e73a780f3ec8790ae609aa3eaf2795afe0bf598d3c06ddebd252a96ee934f36482af8334bfde0c331b0276622f9507bb5f8131a36a9b0a37d9a898236a262218
+Description: Converter HEX to DEC
+
 Package: mkbootimg-static
 Architecture: armel
 Version: 1.0

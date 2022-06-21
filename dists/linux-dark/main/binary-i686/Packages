@@ -339,6 +339,38 @@ SHA256: eecc27b9f8ad5160cbee7df20c92ff88525bef2d3fbe3891070676ae297448f9
 SHA512: 0259f2c2afb3959de2b1b4cdd77d04c7cbc7890e653d81087dc7ec3b86df818a45ab08f87ea8232669527de8135c634589efa41cdc4cb8bef53917c0d8e418a9
 Description: Linux task manager
 
+Package: dec2hex
+Architecture: i686
+Version: 1.0
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: Dima-diep
+Installed-Size: 22
+Filename: ./dec2hex-i686.deb
+Size: 7048
+MD5sum: 45a3a6494c4225ad2a1304bb7b6b0d4b
+SHA1: 42dd298bd630c8726af59d9222151f4295350c4a
+SHA256: 6ac5137ceb5fa249dcc2d410c771f4bc498790cf46ce523f56b652275318cb31
+SHA512: aab8098a9214c48c82b49fcbb8a084d7c9efa1d6dabac12436bf20aeda0db66176cc8781da6ad52ce99588bc83eedee460a5eda8ad223bd9e81806fcab05c26f
+Description: Converter DEC to HEX
+
+Package: hex2dec
+Architecture: i686
+Version: 1.0
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: Dima-diep
+Installed-Size: 13.82
+Filename: ./hex2dec-i686.deb
+Size: 3520
+MD5sum: 308a3b53d80f9df5ffc65d35781ab808
+SHA1: cb81cd0fce8ed6feaed9792493ad16caf243df99
+SHA256: 3def0982287758cef445da357cfa7f6c1389651eb8a6eeca450c80fdd0ccc104
+SHA512: e5a8cb2d6e929d6f33c36b4418d8997989a07f46f00bc464d135a0c02b70e6c69793e6eecf25debd0ef1f6b01ae91c6d949802590c6c93356fd4b140232b181d
+Description: Converter HEX to DEC
+
 Package: mkbootimg-static
 Architecture: i686
 Version: 1.0

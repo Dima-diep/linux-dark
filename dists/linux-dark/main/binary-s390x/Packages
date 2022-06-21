@@ -310,6 +310,38 @@ SHA256: b718aef6c5d95e437bcbfdce85870f8b444369698aeed52d8f612e1c84a90ea2
 SHA512: dce7414ea2725cbed94dca01d6c2c362a2e6bb26843bbccf5eb016b6046b95d90e6141751c7128abab22579cbaf9152c8a36b1b898a554a25d4055d9943d19b1
 Description: binutils for -i686-pc-openbsd
 
+Package: dec2hex
+Architecture: s390x
+Version: 1.0
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: Dima-diep
+Installed-Size: 22.82
+Filename: ./dec2hex-s390x.deb
+Size: 6556
+MD5sum: 9a6769e921f9309d3b22da9768ac5919
+SHA1: d66461cba5d400a83b9cb91a8e9a71cd05e84198
+SHA256: 521f8b07baf4db45ce2b184e1cf5fd780ac764b42a7daaa6bd78604216932e8d
+SHA512: c27e5bbfcb0e56470e6cbdd4d8db23a2ada7d43cae3f61673ddc2612169bbde2cb9b194aa3b0bc73219b0fbca78698971ea0f5c871954f3362fc325068f58315
+Description: Converter DEC to HEX
+
+Package: hex2dec
+Architecture: s390x
+Version: 1.0
+Priority: optional
+Essential: no
+Section: custom
+Maintainer: Dima-diep
+Installed-Size: 14.62
+Filename: ./hex2dec-s390x.deb
+Size: 4392
+MD5sum: c8963d7587eecf314fb5d2131a2df9cf
+SHA1: 97d58a16858de56f550ab232b91fa10013759abe
+SHA256: bab02d9338fa79ed38548e5c23db8a250f793a9e9a2ad95a2230bade93b44073
+SHA512: 4bb49d5c88d61fe31a765ea89f8f12afeea1692cd4b8dabdcd382900e7d60da57a231777cb5d841e0431c2195778d1f2a0666521ef10a15e618ac6163c3b2e32
+Description: Converter HEX to DEC
+
 Package: mkbootimg-static
 Architecture: s390x
 Version: 1.0
