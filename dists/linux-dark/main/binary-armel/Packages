@@ -32,18 +32,18 @@ Description: Converter DEC to HEX
 
 Package: hex2dec
 Architecture: armel
-Version: 1.0
+Version: 1.1
 Priority: optional
 Essential: no
 Section: custom
 Maintainer: Dima-diep
-Installed-Size: 2725
+Installed-Size: 67.18
 Filename: ./hex2dec-armel.deb
-Size: 3840
-MD5sum: 8c238aecfb2fe7526e75815311c3e72e
-SHA1: ce05800fa45641b4399b702e30bb0c4c7b8ebcb7
-SHA256: 7c4881418d127730cbd7bfc471d451f3a5cac5a629c0b41eb32f6686327d5358
-SHA512: e73a780f3ec8790ae609aa3eaf2795afe0bf598d3c06ddebd252a96ee934f36482af8334bfde0c331b0276622f9507bb5f8131a36a9b0a37d9a898236a262218
+Size: 3876
+MD5sum: 55aa7ae1fdb8b07f3eb700d2c67939af
+SHA1: d75e67e734441acb5bed5159a614414a0218e216
+SHA256: 8aa624d831657a4a55c3a77e19c7b9973a111fe912a933c3ae557fc2ce899287
+SHA512: 860f106fb7a16b74739af5f596edc3b380acdbe8c6d8461ea98d07bbc45adc7272031a7da82cc67f8c2da931b78359d26cf18e050f420d0c63906086b400be21
 Description: Converter HEX to DEC
 
 Package: mkbootimg-static
