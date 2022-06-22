@@ -328,18 +328,18 @@ Description: Converter DEC to HEX
 
 Package: hex2dec
 Architecture: s390x
-Version: 1.0
+Version: 1.1
 Priority: optional
 Essential: no
 Section: custom
 Maintainer: Dima-diep
 Installed-Size: 14.62
 Filename: ./hex2dec-s390x.deb
-Size: 4392
-MD5sum: c8963d7587eecf314fb5d2131a2df9cf
-SHA1: 97d58a16858de56f550ab232b91fa10013759abe
-SHA256: bab02d9338fa79ed38548e5c23db8a250f793a9e9a2ad95a2230bade93b44073
-SHA512: 4bb49d5c88d61fe31a765ea89f8f12afeea1692cd4b8dabdcd382900e7d60da57a231777cb5d841e0431c2195778d1f2a0666521ef10a15e618ac6163c3b2e32
+Size: 4424
+MD5sum: d5a2ce38e8bde21ca82370a0b53ca433
+SHA1: 1466c1f8ae76bd6b891bd75312e3405996887252
+SHA256: 13f31191279d74bc6cc5b5b6989766c8b040b195fdb058a579608e7b33b4d3ef
+SHA512: 2e6bd70149229ea6ca73e6eb26200b8ef0c66a1ef6ad04e1d81bb81c27cb39ea969f8230dce4e41d70ad498c7db128b436636f3cad5e0b89be083f72f855b39d
 Description: Converter HEX to DEC
 
 Package: mkbootimg-static

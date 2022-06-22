@@ -341,18 +341,18 @@ Description: Converter DEC to HEX
 
 Package: hex2dec
 Architecture: mips
-Version: 1.0
+Version: 1.1
 Priority: optional
 Essential: no
 Section: custom
 Maintainer: Dima-diep
-Installed-Size: 13.39
+Installed-Size: 13.76
 Filename: ./hex2dec-mips.deb
-Size: 4840
-MD5sum: 71f40da28c889dc7cc8cb483b4f16144
-SHA1: abb7d7fbad2918ddadefb4dfe3fd500bf5c72c84
-SHA256: c07590540be94c71450ddedb95c6aa2134556e0fe63a4b0dad81c1fc6c917356
-SHA512: 709fe85f0f1ebbcde6b034652e9e22c21a56f1269bdc4b0bae645df09375b6301aa957225d353cf233e6a1d39e09b5312bf28fc1647fcbdb861da10a89bf4da9
+Size: 4848
+MD5sum: 3f1633e4bb0ba4154d5fd705ce34cf9c
+SHA1: fd341170718833680797c7d932d58f5beb28c951
+SHA256: 2be9773cce70a305d384187e6dd9d984815166958d678d62e5ca0a1f9fabba8d
+SHA512: e634c9e2370a70fea105c0fb0d1b7c1fec1604fd6c8dfac56e4be82677e81e51ee2f2a3bee88b55fd801ab08c398e58d290b23dede873d30d6c7366c8f7ce9c6
 Description: Converter HEX to DEC
 
 Package: mkbootimg-static

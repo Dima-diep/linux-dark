@@ -340,19 +340,19 @@ SHA512: 89f571b1c0b6e8d161c4e4c81fa91bd40d1e073909203a976bf9c1dfd4e6e16ef6a2281d
 Description: Converter DEC to HEX
 
 Package: hex2dec
-Architecture: powerpc64le
-Version: 1.0
+Architecture: ppc64le
+Version: 1.1
 Priority: optional
 Essential: no
 Section: custom
 Maintainer: Dima-diep
 Installed-Size: 68
 Filename: ./hex2dec-powerpc64le.deb
-Size: 4688
-MD5sum: 2afb079cf03dd19cfaf7b97af771028d
-SHA1: 9f6841df8ac6f8618329793174048b2f70d19d01
-SHA256: 1b9668e39b2ed4b9ff66831dbe92bc06ff0c238653c0bc5da89f86e08df0240b
-SHA512: abe6b80be4187d1bf691a162b3574172093bc46abe9e43179fcb0c4454a2d0d54cfe219ec9cca7763e1703a8bc1370510da97e98d95f3c9efb8668f36435020c
+Size: 4708
+MD5sum: bdd527fe778e38e79f9e62bfbd628230
+SHA1: 266bdd5067e0b0abbd070321f5fad564f0b98786
+SHA256: fa9c520d792c46b8690b5a13f8bff688622b52b508f9b0a36ececa7a33301dcd
+SHA512: 19495ca849b2b8805c806c434cad3dfae0032d4038babb6280b6edd8f88c6551fe3b782a893b6666804c1485c666d9edbbf4af024259d1ace558f8ee2931537a
 Description: Converter HEX to DEC
 
 Package: mkbootimg-static

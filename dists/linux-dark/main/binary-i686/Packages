@@ -357,18 +357,18 @@ Description: Converter DEC to HEX
 
 Package: hex2dec
 Architecture: i686
-Version: 1.0
+Version: 1.1
 Priority: optional
 Essential: no
 Section: custom
 Maintainer: Dima-diep
 Installed-Size: 13.82
 Filename: ./hex2dec-i686.deb
-Size: 3520
-MD5sum: 308a3b53d80f9df5ffc65d35781ab808
-SHA1: cb81cd0fce8ed6feaed9792493ad16caf243df99
-SHA256: 3def0982287758cef445da357cfa7f6c1389651eb8a6eeca450c80fdd0ccc104
-SHA512: e5a8cb2d6e929d6f33c36b4418d8997989a07f46f00bc464d135a0c02b70e6c69793e6eecf25debd0ef1f6b01ae91c6d949802590c6c93356fd4b140232b181d
+Size: 3556
+MD5sum: 0f3f4877fb1c90670747129eb931a73c
+SHA1: a52dd6ffb756177e2b7fbd1043e43c3b805580d8
+SHA256: d829edfdf1333142798808a7f760267ce39184208685d30f7d5ac4e6488ec3aa
+SHA512: d8ad42e71c1d0d726a2df317cec757e73adf701682b500cc334919472b264631083518831fbe333df2506d7d756329484850eb0e1baf1117d4cd0e95171533d9
 Description: Converter HEX to DEC
 
 Package: mkbootimg-static
