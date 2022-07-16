@@ -117,7 +117,7 @@ Description: WiFi pentest utility
 
 Package: termplayer-mpv
 Architecture: all
-Version: 1.3
+Version: 1.4
 Priority: optional
 Essential: no
 Section: custom
@@ -125,29 +125,29 @@ Maintainer: StalinKali
 Installed-Size: 0.8
 Depends: mpv
 Filename: ./termplayer-mpv.deb
-Size: 1204
-MD5sum: d5b6ad4f048cf174eb69eacc69960696
-SHA1: e58d2308640e6cfa90898676e8d7c78df714add0
-SHA256: e91e6011ca396f5ba72a8357f244c324cd6b00a5af34c6b60d369601141c7f10
-SHA512: abcc1d70a7a41c4b7ad3d26304841e44565570e87f2a5fbd59ec1f656a58e2dbe3875300bf4cb767830fd3eba1977f345c0e03c31e1622a55db54d3b101ecebb
-Description: MP3 Player (on mpv) for Linux
+Size: 1068
+MD5sum: 8debda30556907500acaf76c51b495c3
+SHA1: 5bcdfe88e63d3f5382fee71e0bcab1c646cbc461
+SHA256: 6d1b422bd1f894a9458013c2ec42514c2a2150e1e99160ab2b40fbbfdc6ffb46
+SHA512: 89189f3fdf8f0005ebe50798e4f4fc5c6a8c51c8631016897eeadbc7c033bfc788aa4610097494959c05117a911a9275184e7efd2b83ee2b570a4cf4d9614ca1
+Description: MP3 Player for Linux
 
 Package: termplayer-sox
 Architecture: all
-Version: 1.3
+Version: 1.4
 Priority: optional
 Essential: no
 Section: custom
 Maintainer: StalinKali
-Installed-Size: 0.804
+Installed-Size: 0.7
 Depends: sox
 Filename: ./termplayer-sox.deb
-Size: 1176
-MD5sum: 0fd79b6ee362a5f69cacf9788a78de55
-SHA1: 862169bdd58470fb681e3c10f785480111d09c3e
-SHA256: 09a4ce6da1f35b7b1761e87f0fc0e133e81f7b5f300190a2742ffa02b00b607b
-SHA512: 77e0f73362662e6833cbcfa89e7054560061867e53875a3ebb16145aa89e756d98d0f0f3348a5b4707a3f22ae8887d3dd0fba1afbe8517c4198ec54cbd30b317
-Description: MP3 Player (on sox) for Linux
+Size: 1048
+MD5sum: bd059a2c35b2feedf269ba4b07093534
+SHA1: e0832ef08f51e531df382738af97653bdcee3856
+SHA256: ac6133cd9e8b7c7ee8b532dcdc0d6e376ea6f1b755c08fcc7b7096fc3ff1a2ae
+SHA512: b19f70edb24c434be1850f04545373eb4064a6464840ab1af3df0a202f934d82cc81a831487f28a8de7c4a70541b98e948b9f016d9aad03d5c5cfbd999635f57
+Description: MP3 Player for Linux
 
 Package: timer
 Architecture: all
